@@ -1,6 +1,6 @@
 == Recipe blog - box style
 
-I built a Recipe blog web app, with Users, Image uploading.
+I built a Recipe blog web app with Users, Image uploading.
 
 * Ruby version: 2.0.0p643
 
